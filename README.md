@@ -1,7 +1,5 @@
 ## Projet : Projet sur l’agence immobilière et la prédiction des charges immobilières et les meilleures ventes
 
----
-
 Websites :
 
 - Already available in file (csv,...)
