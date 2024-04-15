@@ -20,3 +20,5 @@ Websites :
   - https://www.igedd.developpement-durable.gouv.fr/house-prices-in-france-property-price-index-french-a1117.html
   - https://en.selectra.info/energy-france/guides/tips/bills/average
   - https://www.ofgem.gov.uk/information-consumers/energy-advice-households/average-gas-and-electricity-use-explained
+
+Canva : https://www.canva.com/design/DAGCbhqGyRA/ClUcW7gEPcCStc_OeMl-Gw/edit?utm_content=DAGCbhqGyRA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
